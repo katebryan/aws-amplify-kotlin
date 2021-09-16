@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-happinesstest-staging-133443-authRole",
+      "UnauthRoleArn": "arn:aws:iam::091278452310:role/amplify-happinesstest-staging-133443-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::091278452310:role/amplify-happinesstest-staging-133443-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-happinesstest-staging-133443-deployment",
+      "UnauthRoleName": "amplify-happinesstest-staging-133443-unauthRole",
+      "StackName": "amplify-happinesstest-staging-133443",
+      "StackId": "arn:aws:cloudformation:eu-west-1:091278452310:stack/amplify-happinesstest-staging-133443/8531a630-1560-11ec-8cf7-02762d221d0d",
+      "AmplifyAppId": "d1txm6td5o8u8n"
+    }
+  }
+}
